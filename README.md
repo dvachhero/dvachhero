@@ -1,5 +1,7 @@
 # Hi, I’m @dvachhero
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=26A5E4&width=500&lines=Backend+%7C+Frontend+%7C+DevOps;)](https://git.io/typing-svg)
+
 ## 🖥 Backend  
 [![Backend](https://skillicons.dev/icons?i=python,django,fastapi)](https://skillicons.dev)
 
